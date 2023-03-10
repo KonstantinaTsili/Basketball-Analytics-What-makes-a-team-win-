@@ -1,1 +1,1 @@
-# Basketball Analytic : What makes a team win?
+# Basketball Analytics : What makes a team win?
